@@ -1,0 +1,14 @@
+{
+    "name": "mrc/ssooauth",
+    "description": "SSO Oauth Server",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nguyen Cuong",
+            "email": "vancuong2941989@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
